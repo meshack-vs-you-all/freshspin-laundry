@@ -2,6 +2,8 @@
 title: "Our Services"
 date: 2023-10-26T10:00:00+03:00
 draft: false
+showHero: true
+heroStyle: "big"
 ---
 
 At FreshSpin Laundry, we offer a wide range of services to cater to your specific needs.

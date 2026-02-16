@@ -1,0 +1,24 @@
+[[main]]
+  name = "Services"
+  pageRef = "services"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 40
+
+[[footer]]
+  name = "Privacy Policy"
+  url = "/privacy"
+  weight = 10

@@ -1,0 +1,5 @@
+languageCode = "en-us"
+languageName = "English"
+title = "FreshSpin Laundry"
+weight = 1
+contentDir = "content"

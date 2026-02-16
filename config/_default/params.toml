@@ -1,0 +1,31 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "hero"
+  homepageImage = "images/hero_laundry.jpg"
+  showRecent = true
+  showRecentItems = 3
+  cardView = true
+
+[article]
+  showDate = true
+  showAuthor = true
+  showHero = true
+  heroStyle = "big"
+  showReadingTime = true
+  showWordCount = true
+  sharingLinks = ["linkedin", "twitter", "whatsapp", "facebook", "email"]

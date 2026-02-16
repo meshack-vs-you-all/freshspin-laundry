@@ -2,6 +2,8 @@
 title: "Contact Us"
 date: 2023-10-26T10:00:00+03:00
 draft: false
+showSummary: false
+showAuthor: false
 ---
 
 We'd love to hear from you! Whether you have a question about our services, pricing, or want to schedule a pickup, feel free to reach out.

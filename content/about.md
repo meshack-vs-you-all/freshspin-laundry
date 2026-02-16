@@ -2,6 +2,8 @@
 title: "About Us"
 date: 2023-10-26T10:00:00+03:00
 draft: false
+showSummary: false
+showAuthor: false
 ---
 
 ## About FreshSpin Laundry

@@ -1,0 +1,13 @@
+baseURL = 'https://meshack-vs-you-all.github.io/freshspin-laundry/'
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+summaryLength = 0
+buildDrafts = false
+buildFuture = false
+enableEmoji = true
+
+[pagination]
+  pagerSize = 25
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
