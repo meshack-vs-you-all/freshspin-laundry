@@ -31,8 +31,8 @@ theme = 'PaperMod'
     imageWidth = 120
     imageHeight = 120
 
-  [params.socialIcons]
-    [[params.socialIcons]]
+
+  [[params.socialIcons]]
       name = "whatsapp"
       url = "https://wa.me/254788957996"
     [[params.socialIcons]]
