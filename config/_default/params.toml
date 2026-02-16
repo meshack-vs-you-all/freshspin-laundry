@@ -16,7 +16,7 @@ enableCodeCopy = true
 
 [homepage]
   layout = "hero"
-  homepageImage = "images/hero_laundry.jpg"
+  homepageImage = "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&q=80&w=1200"
   showRecent = true
   showRecentItems = 3
   cardView = true

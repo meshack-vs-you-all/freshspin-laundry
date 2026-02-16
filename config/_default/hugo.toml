@@ -5,6 +5,8 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
+canonifyURLs = true
+relativeURLs = true
 
 [pagination]
   pagerSize = 25
