@@ -5,7 +5,7 @@ draft: false
 summary: "Discover why switching to a professional laundry service can save you time, money, and your favorite outfits."
 showSummary: true
 showAuthor: true
-featureImage: "https://images.unsplash.com/photo-1521335629791-ce4aec67dd15?auto=format&fit=crop&q=80&w=800"
+featureImage: "https://images.unsplash.com/photo-1545173168-9f1947e8017e?auto=format&fit=crop&q=80&w=800"
 tags: ["professional cleaning", "laundry service"]
 categories: ["Expert Advice"]
 ---

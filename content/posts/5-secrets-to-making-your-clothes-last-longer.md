@@ -5,7 +5,7 @@ draft: false
 summary: "Learn industry secrets on how to maintain your wardrobe and keep your fabrics looking new for years."
 showSummary: true
 showAuthor: true
-featureImage: "https://images.unsplash.com/photo-1545173168-9f1947e8017e?auto=format&fit=crop&q=80&w=800"
+featureImage: "https://images.unsplash.com/photo-1556905055-8f358a7a4bb4?auto=format&fit=crop&q=80&w=800"
 tags: ["clothing care", "laundry tips"]
 categories: ["Tips & Tricks"]
 ---
