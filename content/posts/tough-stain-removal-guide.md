@@ -5,7 +5,7 @@ draft: false
 summary: "Coffee, wine, or ink? Don't panic. Follow our expert guide to saving your clothes from the toughest stains."
 showSummary: true
 showAuthor: true
-featureImage: "https://images.unsplash.com/photo-1582733989396-01d713bd7834?auto=format&fit=crop&q=80&w=800"
+featureimage: "https://images.unsplash.com/photo-1582733989396-01d713bd7834?auto=format&fit=crop&q=80&w=800"
 tags: ["stain removal", "laundry tips"]
 categories: ["Guides"]
 ---

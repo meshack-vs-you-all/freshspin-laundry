@@ -5,7 +5,7 @@ draft: false
 tags: ["Laundry Tips", "Clothing Care"]
 categories: ["Tips & Tricks"]
 summary: "Discover the secrets to maintaining perfectly white clothes with these simple laundry hacks."
-featureImage: "https://images.unsplash.com/photo-1521656693064-159c11dbb3bf?auto=format&fit=crop&q=80&w=800"
+featureimage: "https://images.unsplash.com/photo-1521656693064-159c11dbb3bf?auto=format&fit=crop&q=80&w=800"
 ---
 
 White clothes are a staple in everyone's wardrobe, but keeping them bright and stain-free can be a challenge. Over time, whites naturally yellow or turn grey. Here are 5 tips from the experts at FreshSpin Laundry to help you keep your whites looking brand new.
