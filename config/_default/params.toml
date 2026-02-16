@@ -3,6 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
+copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](https://craftededgesolutions.com)"
 
 [header]
   layout = "fixed"
@@ -10,7 +11,6 @@ enableCodeCopy = true
 [footer]
   showMenu = true
   showCopyright = true
-  copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](https://craftededgesolutions.com)"
 
   showThemeAttribution = false
   showAppearanceSwitcher = true
