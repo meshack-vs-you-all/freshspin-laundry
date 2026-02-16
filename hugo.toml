@@ -1,7 +1,10 @@
-baseURL = 'https://freshspin-laundry.com/'
+baseURL = 'https://meshack-vs-you-all.github.io/freshspin-laundry/'
 languageCode = 'en-us'
 title = 'FreshSpin Laundry'
 theme = 'PaperMod'
+
+canonifyURLs = true
+relativeURLs = false
 
 [params]
   defaultTheme = "light"
