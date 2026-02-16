@@ -12,19 +12,21 @@ FreshSpin Laundry is your trusted partner for all your laundry needs. Located in
 
 We use eco-friendly detergents and modern equipment to deliver the best results while protecting the environment. Whether it's your daily wear, bedding, or delicate fabrics, FreshSpin handles it all with precision.
 
+### Your Preferences Matter
+We believe laundry isn't just about cleaning clothes; it's about personal care. That's why we encourage you to **Specify your laundry and dry cleaning preferences**, such as:
+*   Specific fabric softeners.
+*   Bleach treatment for whites.
+*   Special handling for delicate or high-value items.
+*   Express 24-hour turnaround or same-day service.
+
 ### Our Mission
-To provide exceptional laundry services that give our customers more free time and peace of mind.
+To provide exceptional laundry services that give our customers more free time and peace of mind by treating every garment as if it were our own.
 
 ---
 
-## About Crafted Edge Solutions
-This website was designed and developed by **Crafted Edge Solutions**, a premier web development agency focused on building modern, high-performance websites for businesses.
+## Technical Partner: Crafted Edge Solutions
+This website is a digital experience crafted by **Crafted Edge Solutions**, a full-service agency specializing in high-converting, performance-focused web platforms.
 
-We specialize in:
-* **Custom Web Development:** Tailored solutions using the latest technologies like Hugo, React, and more.
-* **SEO Optimization:** Helping your business rank higher and reach more customers.
-* **Digital Branding:** Creating cohesive and professional online identities.
-
-**Crafted Edge Solutions** partners with local businesses like FreshSpin Laundry to elevate their digital presence. This site was built by [Meshack](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/), a lead developer at Crafted Edge. If you're looking for a professional website that drives growth, get in touch with us.
+From modern static sites to complex web applications, we bridge the gap between technical excellence and business growth. This platform was built using **Hugo** and the **Blowfish** theme by [Meshack](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/), showcasing our commitment to speed, SEO, and aesthetics.
 
 [Visit Crafted Edge Solutions](https://craftededgesolutions.com) | [View Developer Portfolio](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)

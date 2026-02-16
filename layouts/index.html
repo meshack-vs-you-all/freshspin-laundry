@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ $partial := print "home/" .Site.Params.homepage.layout ".html" }}
+  {{ if templates.Exists ( printf "partials/%s" $partial ) }}
+    {{ partial $partial . }}
+  {{ else }}
+    {{ partial "home/profile.html" . }}
+  {{ end }}
+  
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    {{ partial "home/custom_bottom_sections.html" . }}
+  </div>
+
+  <!-- Custom Developer Branding Before Footer -->
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-12 pb-12 border-t border-neutral-200 dark:border-neutral-800 pt-8 text-center text-sm text-neutral-500">
+    <p>Powered by <a href="https://craftededgesolutions.com" target="_blank" class="font-bold hover:text-primary-500 underline decoration-primary-500/30">Crafted Edge Solutions</a></p>
+    <p>Hand-crafted with passion by <a href="https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/" target="_blank" class="font-bold hover:text-primary-500 underline decoration-primary-500/30">Meshack</a></p>
+  </div>
+{{ end }}

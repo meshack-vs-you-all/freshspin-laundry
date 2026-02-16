@@ -9,28 +9,28 @@ showAuthor: false
 We'd love to hear from you! Whether you have a question about our services, pricing, or want to schedule a pickup, feel free to reach out.
 
 ## Get in Touch
+We don't use automated forms—we prefer a personal touch. Reach out to us directly:
 
-*   **Phone / WhatsApp:** [+254 788 957 996](https://wa.me/254788957996)
+*   **WhatsApp (Preferred):** [+254 788 957 996](https://wa.me/254788957996)
 *   **Email:** info@freshspinlaundry.com
-*   **Address:** Kahawa Wendani, Nairobi, Kenya
+*   **Location:** Kahawa Wendani, Nairobi (Next to Magunas Supermarket)
 
-## Opening Hours
+---
 
-*   **Monday - Saturday:** 8:00 AM - 8:00 PM
-*   **Sunday:** 10:00 AM - 4:00 PM
+## Operating Hours
+*   **Sunday - Friday:** 8:00 AM - 6:00 PM
+*   **Saturday:** **CLOSED**
 
-## Send us a Message
+---
 
-*(Contact form placeholder - integration with Formspree or Netlify Forms recommended)*
+## Laundry Customs & Preferences
+At FreshSpin, we know everyone has their own way of doing laundry. You can specify:
+* **Detergent/Softener:** Tell us your favorite scent or if you prefer unscented.
+* **Bleach for Whites:** We use specialized care for whites to keep them bright.
+* **Folding Styles:** Rolled or flat? Just let us know.
+* **Stain Treatment:** Point out tough spots for pre-treatment.
 
-<form action="https://formspree.io/f/your_form_id" method="POST">
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
-</form>
+---
+
+### Book Your Fresh Start Today
+Whether it's a single machine wash or a bulk family load, we are ready to keep you fresh!

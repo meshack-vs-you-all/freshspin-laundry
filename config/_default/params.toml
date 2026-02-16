@@ -3,6 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
+sharingLinks = ["whatsapp", "email"]
 copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](https://craftededgesolutions.com)"
 
 [header]
@@ -30,4 +31,3 @@ copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](ht
   heroStyle = "big"
   showReadingTime = true
   showWordCount = true
-  sharingLinks = ["linkedin", "twitter", "whatsapp", "facebook", "email"]
