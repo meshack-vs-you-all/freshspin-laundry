@@ -4,6 +4,7 @@ date: 2023-10-26T10:00:00+03:00
 draft: false
 showSummary: false
 showAuthor: false
+featureImage: "https://images.unsplash.com/photo-1545173168-9f1947e8017e?auto=format&fit=crop&q=80&w=800"
 ---
 
 ## About FreshSpin Laundry

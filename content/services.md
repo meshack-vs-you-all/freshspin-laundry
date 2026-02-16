@@ -4,6 +4,7 @@ date: 2023-10-26T10:00:00+03:00
 draft: false
 showHero: true
 heroStyle: "big"
+featureImage: "https://images.unsplash.com/photo-1521335629791-ce4aec67dd15?auto=format&fit=crop&q=80&w=1200"
 ---
 
 At FreshSpin Laundry, we offer a wide range of services to cater to your specific needs.
