@@ -1,0 +1,254 @@
+/* FreshSpin Laundry Custom CSS */
+
+:root {
+    --primary-color: #00a8e8; /* Fresh Blue */
+    --primary-dark: #007bb5;
+    --secondary-color: #4CAF50; /* Fresh Green */
+    --text-color: #333;
+    --bg-color: #f9f9f9;
+    --white: #ffffff;
+    --gray-light: #e0e0e0;
+}
+
+/* General Overrides */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: var(--white);
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-dark);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    color: var(--white);
+}
+
+.btn-whatsapp {
+    background-color: #25D366;
+    color: var(--white);
+}
+
+.btn-outline {
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.btn-link {
+    color: var(--primary-color);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Promo Banner */
+.promo-banner {
+    background-color: var(--secondary-color);
+    color: var(--white);
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.95rem;
+}
+
+/* Hero Section */
+.hero-section {
+    background-color: #e3f2fd;
+    padding: 80px 20px;
+    text-align: center;
+    border-bottom: 1px solid var(--gray-light);
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.25rem;
+    color: var(--text-color);
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-buttons .btn {
+    margin: 0 10px;
+}
+
+/* Services Overview */
+.services-overview {
+    padding: 60px 20px;
+    background-color: var(--white);
+    text-align: center;
+}
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.service-card {
+    background: var(--bg-color);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+.service-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+.view-all-services {
+    margin-top: 40px;
+}
+
+/* Blog Preview */
+.blog-preview {
+    padding: 60px 20px;
+    background-color: var(--bg-color);
+}
+
+.posts-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.post-preview {
+    background: var(--white);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.post-preview h3 a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.post-meta {
+    font-size: 0.85rem;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 15px;
+    color: var(--primary-color);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* CTA Section */
+.cta-section {
+    padding: 80px 20px;
+    background-color: var(--primary-color);
+    color: var(--white);
+    text-align: center;
+}
+
+.cta-section h2 {
+    color: var(--white);
+    margin-bottom: 20px;
+}
+
+.cta-section p {
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.cta-buttons .btn {
+    margin: 0 10px;
+    background-color: var(--white);
+    color: var(--primary-color);
+}
+
+.cta-buttons .btn-whatsapp {
+    background-color: #25D366;
+    color: var(--white);
+}
+
+/* Partner Teaser */
+.partner-teaser {
+    padding: 50px 20px;
+    background-color: #333;
+    color: var(--white);
+    text-align: center;
+}
+
+.partner-teaser h3 {
+    color: var(--white);
+    margin-bottom: 15px;
+}
+
+.partner-teaser p {
+    color: #ccc;
+    margin-bottom: 20px;
+}
+
+/* Sidebar Ad */
+.ad-sidebar {
+    margin-top: 30px;
+    border-top: 1px solid var(--gray-light);
+    padding-top: 20px;
+}
+
+.ad-block {
+    background-color: var(--bg-color);
+    padding: 15px;
+    text-align: center;
+    border: 1px dashed #ccc;
+}
+
+.ad-link {
+    display: block;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-buttons .btn {
+        display: block;
+        margin: 10px auto;
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .cta-buttons .btn {
+         display: block;
+        margin: 10px auto;
+        width: 100%;
+        max-width: 300px;
+    }
+}

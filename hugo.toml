@@ -1,0 +1,79 @@
+baseURL = 'https://freshspin-laundry.com/'
+languageCode = 'en-us'
+title = 'FreshSpin Laundry'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "light"
+  env = "production"
+  title = "FreshSpin Laundry"
+  description = "Premium Laundry Services in Nairobi"
+  author = "Crafted Edge Solutions"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  UseHugoToc = true
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+
+  [params.assets]
+    disableHLJS = true
+
+  [params.profileMode]
+    enabled = false
+    title = "FreshSpin Laundry"
+    subtitle = "Fresh Clothes, Fresh Start"
+    imageUrl = "/images/logo.png"
+    imageTitle = "FreshSpin Logo"
+    imageWidth = 120
+    imageHeight = 120
+
+  [params.socialIcons]
+    [[params.socialIcons]]
+      name = "whatsapp"
+      url = "https://wa.me/254788957996"
+    [[params.socialIcons]]
+      name = "instagram"
+      url = "https://instagram.com/freshspinlaundry"
+    [[params.socialIcons]]
+      name = "facebook"
+      url = "https://facebook.com/freshspinlaundry"
+
+[menu]
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 10
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 40
+  [[menu.main]]
+    identifier = "advertise"
+    name = "Advertise With Us"
+    url = "/advertise/"
+    weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    ID = 'UA-XXXXXXXX-X'

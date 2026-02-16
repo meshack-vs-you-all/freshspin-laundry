@@ -1,0 +1,26 @@
+# Hugo default output directory
+/public/
+
+# Hugo resources directory
+/resources/
+
+# Hugo file locks
+.hugo_build.lock
+
+# Dependency directories
+node_modules/
+.npm/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+._*
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
