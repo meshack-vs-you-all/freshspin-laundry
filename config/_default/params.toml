@@ -10,6 +10,8 @@ enableCodeCopy = true
 [footer]
   showMenu = true
   showCopyright = true
+  copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](https://craftededgesolutions.com)"
+
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true

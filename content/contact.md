@@ -10,9 +10,9 @@ We'd love to hear from you! Whether you have a question about our services, pric
 
 ## Get in Touch
 
-*   **Phone / WhatsApp:** [+254 700 000 000](https://wa.me/254700000000)
+*   **Phone / WhatsApp:** [+254 788 957 996](https://wa.me/254788957996)
 *   **Email:** info@freshspinlaundry.com
-*   **Address:** 123 Laundry Lane, Nairobi, Kenya
+*   **Address:** Kahawa Wendani, Nairobi, Kenya
 
 ## Opening Hours
 
