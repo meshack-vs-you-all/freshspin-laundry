@@ -1,71 +1,76 @@
 ---
-title: "Service Pricing"
-description: "Affordable laundry and dry cleaning rates at FreshSpin Laundry."
-layout: "simple"
-showDate: false
-showAuthor: false
-showReadingTime: false
-showWordCount: false
+title: "Pricing & Rate Card"
+description: "Professional laundry pricing for Kahawa Wendani residents and students."
+date: 2026-02-17
+draft: false
+showHero: true
+heroStyle: "big"
+featureimage: "https://images.unsplash.com/photo-1545173168-9f1967e4954e?auto=format&fit=crop&q=80&w=1200"
 ---
 
 {{< lead >}}
-Clean clothes shouldn't cost a fortune. Check out our competitive rates for all your laundry and dry cleaning needs.
+Premium laundry care at localized prices. We believe in transparency and quality.
 {{< /lead >}}
 
-### 🧺 Machine Wash & Fold
-*Standard washing, drying, and professional folding.*
+---
 
-| Load Size | Price (Per KG) | Note |
-| :--- | :--- | :--- |
-| **Standard Load (<6kg)** | KES 100 | Ideal for weekly personal laundry |
-| **Large Load (10+kg)** | KES 70 | Best value for families |
-| **Student Special** | **KES 60** | Valid student ID required |
+## 🧺 Main Services
 
-> **Note:** We provide **2 standard size laundry bags** for free. Extra bags are available at **KES 50** each.
+{{< accordion >}}
+  {{< accordionItem title="Standard Wash (<6kg)" icon="check" >}}
+    Our standard machine wash, dry, and fold service for everyday laundry.
+    - **Price:** KES 100 / KG
+    - **Minimum:** 6KG
+  {{< /accordionItem >}}
+  {{< accordionItem title="Bulk Load (10kg+)" icon="users" >}}
+    Bulk pricing for households or those with heavy weekly laundry needs.
+    - **Price:** KES 70 / KG
+    - **Minimum:** 10KG
+  {{< /accordionItem >}}
+  {{< accordionItem title="Specialty Items" icon="star" >}}
+    Care for items that require specialized handling.
+    - **Shoes:** KES 100 / Pair
+    - **Duvet (6x6):** KES 400
+    - **Dry Cleaning:** KES 500 - 800
+  {{< /accordionItem >}}
+{{< /accordion >}}
 
 ---
 
-### 🧥 Individual Item Care
-*Professional cleaning for specific garments.*
+## 🎓 Student Special
 
-| Item | Price |
-| :--- | :--- |
-| **2-Piece Suit** | KES 500 |
-| **Trench Coat** | KES 200 |
-| **Curtains** | KES 400 (per pair) |
-| **Shoes** | KES 100 (per pair) |
-| **Duvet (up to 6x6)** | KES 400 |
+{{< alert icon="graduation-cap" >}}
+**CES Flash Offer for Students**
+KES **60 / KG** for all students in Kahawa Wendani.
+*Must present a valid Student ID. Valid until April 1st, 2026.*
+{{< /alert >}}
 
 ---
 
-### 🛏️ Bedding & Linens
-| Item Type | Price |
-| :--- | :--- |
-| **Colored Bedding/Sheets** | KES 100 |
-| **White Bedding/Sheets** | KES 300 |
+## 🧾 FreshSpin Rate Card
 
-*Whites require extra care, specialized bleach, and hot wash cycles.*
+{{< alert icon="list" >}}
+**Rate Card — Kahawa Wendani**
 
----
+| Service | Price |
+|---|---|
+| Wash & fold (<6kg) | **KES 100/kg** |
+| Bulk load (10+kg) | **KES 70/kg** |
+| Student deal | **KES 60/kg** |
+| Shoes | **KES 100/pair** |
+| Duvet (6×6) | **KES 400** |
 
-### ⚡ Express Services
-*Need it in a hurry?*
+*Updated: {{< current_date >}}*
+{{< /alert >}}
 
-* **Standard Turnaround:** 24 Hours
-* **Same Day Service:** Add **KES 200** surcharge (Drop off by 10 AM)
-
----
-
-### 🧴 Personalized Preferences
-Specify your preferences at drop-off or via WhatsApp:
-* Fabric softener choice
-* Bleach for whites
-* Temperature settings
-* Hang-dry vs. Tumble-dry
+<button onclick="window.print()" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700 cursor-pointer border-none">🖨️ Print Rate Card</button>
 
 ---
 
-#### 📱 Ready to Book?
-[{{< button >}} Message on WhatsApp {{< /button >}}](https://wa.me/254788957996)
+## 💡 Store Policy
 
-*Prices are subject to change. Contact us for bulk or commercial inquiries.*
+{{< alert icon="lightbulb" title="Good to Know" >}}
+- **Bags:** Please provide at least 1 standard laundry bag (extra bags available at KES 50).
+- **Logistics:** Enjoy free pickup and delivery within the Kahawa Wendani area.
+- **Care:** Please report any special fabric concerns or care instructions upon booking.
+{{< /alert >}}
