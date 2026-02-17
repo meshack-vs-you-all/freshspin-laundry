@@ -24,3 +24,8 @@ Thumbs.db
 
 # Temporary files
 tmp/
+
+# Hugo build outputs
+/public_*/
+*.log
+
