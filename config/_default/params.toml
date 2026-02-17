@@ -1,10 +1,10 @@
-colorScheme = "blowfish"
+colorScheme = "slate"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 sharingLinks = ["whatsapp", "email"]
-copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](https://craftededgesolutions.com)"
+copyright = "© 2026 FreshSpin Laundry | Designed by [**Crafted Edge Solutions**](https://craftededgesolutions.com) | Lead Developer [**Meshack**](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)"
 
 [header]
   layout = "fixed"
@@ -23,6 +23,9 @@ copyright = "© 2024 FreshSpin Laundry | Designed by [Crafted Edge Solutions](ht
   showRecent = true
   showRecentItems = 3
   cardView = true
+  cardShadow = false
+  cardBorder = false
+  layoutBackgroundBlur = false
 
 [article]
   showDate = true

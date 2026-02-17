@@ -15,8 +15,13 @@
 
 [[main]]
   name = "Pricing"
-  pageRef = "pricing"
+  url = "/pricing/"
   weight = 35
+
+[[main]]
+  name = "Offers"
+  pageRef = "promotions"
+  weight = 38
 
 [[main]]
   name = "Blog"
