@@ -1,0 +1,25 @@
+/* FreshSpin Laundry - Minimal Theme Enhancements */
+
+/* 1. Soft Interaction Effects */
+.article-link--card {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.article-link--card:hover {
+    transform: translateY(-4px);
+    opacity: 0.8;
+}
+
+/* 2. Pricing & Rate Card Print Optimization */
+@media print {
+    .prose {
+        max-width: none !important;
+    }
+
+    header,
+    footer,
+    nav,
+    .no-print {
+        display: none !important;
+    }
+}
