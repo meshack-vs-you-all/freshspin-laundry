@@ -4,7 +4,7 @@ date: 2023-10-26T10:00:00+03:00
 draft: false
 showSummary: false
 showAuthor: false
-featureImage: "https://images.unsplash.com/photo-1545173168-9f1947e8017e?auto=format&fit=crop&q=80&w=800"
+featureimage: "https://images.unsplash.com/photo-1545173168-9f1947e8017e?auto=format&fit=crop&q=80&w=800"
 ---
 
 ## About FreshSpin Laundry
@@ -20,7 +20,10 @@ We believe laundry isn't just about cleaning clothes; it's about personal care. 
 *   Express 24-hour turnaround or same-day service.
 
 ### Our Mission
-To provide exceptional laundry services that give our customers more free time and peace of mind by treating every garment as if it were our own.
+
+{{< alert icon="target" >}}
+**Empowering your lifestyle** by providing exceptional laundry services that give you more free time and peace of mind. We treat every garment as if it were our own.
+{{< /alert >}}
 
 ---
 

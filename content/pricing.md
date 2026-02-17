@@ -7,7 +7,6 @@ showHero: true
 heroStyle: "big"
 featureimage: "https://images.unsplash.com/photo-1545173168-9f1967e4954e?auto=format&fit=crop&q=80&w=1200"
 ---
-
 {{< lead >}}
 Premium laundry care at localized prices. We believe in transparency and quality.
 {{< /lead >}}
@@ -52,16 +51,17 @@ KES **60 / KG** for all students in Kahawa Wendani.
 {{< alert icon="list" >}}
 **Rate Card — Kahawa Wendani**
 
-| Service | Price |
-|---|---|
-| Wash & fold (<6kg) | **KES 100/kg** |
-| Bulk load (10+kg) | **KES 70/kg** |
-| Student deal | **KES 60/kg** |
-| Shoes | **KES 100/pair** |
-| Duvet (6×6) | **KES 400** |
+| Service            | Price                  |
+| ------------------ | ---------------------- |
+| Wash & fold (<6kg) | **KES 100/kg**   |
+| Bulk load (10+kg)  | **KES 70/kg**    |
+| Student deal       | **KES 60/kg**    |
+| Shoes              | **KES 100/pair** |
+| Duvet (6×6)       | **KES 400**      |
 
 *Updated: {{< current_date >}}*
 {{< /alert >}}
+
 
 <button onclick="window.print()" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700 cursor-pointer border-none">🖨️ Print Rate Card</button>
 
@@ -70,7 +70,8 @@ KES **60 / KG** for all students in Kahawa Wendani.
 ## 💡 Store Policy
 
 {{< alert icon="lightbulb" title="Good to Know" >}}
+
 - **Bags:** Please provide at least 1 standard laundry bag (extra bags available at KES 50).
 - **Logistics:** Enjoy free pickup and delivery within the Kahawa Wendani area.
 - **Care:** Please report any special fabric concerns or care instructions upon booking.
-{{< /alert >}}
+  {{< /alert >}}
