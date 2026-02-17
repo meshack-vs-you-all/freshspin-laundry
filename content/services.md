@@ -13,21 +13,29 @@ At FreshSpin Laundry, we offer a wide range of services to cater to your specifi
 
 ## 🧼 Core Services
 
+<div style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
+
 {{< alert icon="check" >}}
 **Wash & Fold**
 Just drop off your laundry, and we'll wash, dry, and neatly fold it for you. Perfect for everyday clothes.
-<br>
 {{< /alert >}}
+
+</div>
+
+<div style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
 
 {{< alert icon="star" >}}
 **Dry Cleaning**
 For delicate fabrics and suits. We use gentle solvents to remove stains and refresh your garments.
 {{< /alert >}}
 
+</div>
+
 ---
 
 ## ✨ More Care Options
 
+<div style="margin-top: 2rem; margin-bottom: 2rem;">
 {{< accordion >}}
   {{< accordionItem title="Ironing & Pressing" icon="sun" >}}
     Look sharp with our professional ironing services. We ensure your shirts, trousers, and dresses are crisp and wrinkle-free.
@@ -39,24 +47,28 @@ For delicate fabrics and suits. We use gentle solvents to remove stains and refr
     Give your sneakers and shoes a new lease on life with our specialized hand-cleaning service.
   {{< /accordionItem >}}
 {{< /accordion >}}
+</div>
 
 ---
 
+<div style="margin-top: 2rem; margin-bottom: 2rem;">
 {{< alert icon="truck" >}}
 **Convenient Pickup & Delivery**
 Busy schedule? We offer reliable pickup and delivery within the Kahawa Wendani area. [Book a Pickup Now](https://wa.me/254788957996)
 {{< /alert >}}
+</div>
 
 ---
 
-## 🤝 Our Technical Partner
+## 🤝 Partner Spotlight
 
-{{< alert icon="fire" cardColor="#e0f2fe" iconColor="#0284c7" textColor="#0c4a6e" >}}
-**Powered by Crafted Edge Solutions**
+{{< alert icon="code-bracket" >}}
+**Crafted Edge Solutions**
 
-This website and our digital infrastructure are powered by [**Crafted Edge Solutions**](https://craftededgesolutions.com) - your partner for modern, high-converting business websites.
+This website and our digital infrastructure are built by [**Crafted Edge Solutions**](https://craftededgesolutions.com). They specialize in high-performance, modern websites that help local businesses like FreshSpin stand out.
 
-Need a professional online presence? Mention **FreshSpin** and get a special discount on your web project!
+**Need a Professional Website?**
+Mention **FreshSpin** and receive a referral discount on your web project!
 
-[Visit Crafted Edge Solutions →](https://craftededgesolutions.com)
+[**Visit Crafted Edge Solutions →**](https://craftededgesolutions.com) | [**Partner With Us on WhatsApp →**](https://wa.me/254788957996?text=Hi%20FreshSpin%2C%20I%27m%20interested%20in%20advertising%2Fpartnering%20with%20you.%20Can%20I%20get%20more%20information%3F)
 {{< /alert >}}

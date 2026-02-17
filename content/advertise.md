@@ -7,7 +7,7 @@ heroStyle: "big"
 ---
 ## Reach Our Local Audience
 
-FreshSpin Laundry is more than just a laundry service; we are a community hub. Our website and physical location attract a diverse group of local residents and professionals.
+FreshSpin Laundry is more than just a laundry service; we are a community hub. Our website and physical location attract a diverse group of local residents and professionals from **Kahawa Wendani, Kahawa Sukari, Kenyatta University (KU), Githurai, Ruiru, and the larger Nairobi area**.
 
 We offer several advertising opportunities for local businesses to promote their products and services to our engaged audience.
 

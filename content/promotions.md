@@ -8,7 +8,13 @@ showWordCount: false
 ---
 ## 🔥 Current Offers
 
-We run limited-time promotions for residents of **Kahawa Wendani**. Updated regularly (***fortnightly***)— ask about these when booking your next wash.
+We run limited-time promotions for residents of **Kahawa Wendani, Kahawa Sukari, KU, Githurai, and Ruiru**. Updated regularly (***fortnightly***)— ask about these when booking your next wash.
+
+{{< alert icon="star" >}}
+**New Customer Special: 10% OFF**
+First time using FreshSpin? Get **10% OFF** your very first wash! 
+**How to claim:** Take a screenshot of this offer and send it to us on WhatsApp when booking.
+{{< /alert >}}
 
 ---
 
@@ -18,7 +24,7 @@ We run limited-time promotions for residents of **Kahawa Wendani**. Updated regu
 **Promote Your Local Business**
 Own a business ? Place your offer here and reach customers already using FreshSpin services.
 
-[**Request Ad Rates**](mailto:ads@freshspin.co.ke)
+[**Request Ad Rates on WhatsApp**](https://wa.me/254788957996?text=Hi%20FreshSpin%2C%20I%27m%20interested%20in%20your%20advertising%20rates.%20Could%20you%20share%20more%20details%3F)
 {{< /alert >}}
 
 ---
@@ -49,3 +55,12 @@ We reward consistency. Register your phone number and your **10th standard wash 
 **Launch Your Own Professional Website**
 Mention **FreshSpin** and receive a referral discount on a modern, conversion-focused business website via [**Crafted Edge Solutions**](https://craftededgesolutions.com).
 {{< /alert >}}
+
+---
+
+## ✉️ Join Our VIP List!
+
+<div style="max-width: 700px; margin: 3rem auto; text-align: center;">
+    <p class="text-lg mb-4">Sign up for exclusive offers, laundry tips, and updates!</p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTSZAq_6wqPXG2eC6hv-MDwLrE-BGToIYyJlzKBRJbARgPtA/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
