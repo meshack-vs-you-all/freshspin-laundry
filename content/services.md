@@ -4,28 +4,44 @@ date: 2023-10-26T10:00:00+03:00
 draft: false
 showHero: true
 heroStyle: "big"
-featureImage: "https://images.unsplash.com/photo-1521335629791-ce4aec67dd15?auto=format&fit=crop&q=80&w=1200"
+featureimage: "https://images.unsplash.com/illustration-AKdjvmZ5NXo?auto=format&fit=crop&q=80&w=1200"
 ---
 
-At FreshSpin Laundry, we offer a wide range of services to cater to your specific needs.
+{{< lead >}}
+At FreshSpin Laundry, we offer a wide range of services to cater to your specific needs with professional care.
+{{< /lead >}}
 
-## Wash & Fold
-Our most popular service. Just drop off your laundry, and we'll wash, dry, and neatly fold it for you. Perfect for everyday clothes.
+## 🧼 Core Services
 
-## Ironing & Pressing
-Look sharp with our professional ironing services. We ensure your shirts, trousers, and dresses are crisp and wrinkle-free.
+{{< alert icon="check" >}}
+**Wash & Fold**
+Just drop off your laundry, and we'll wash, dry, and neatly fold it for you. Perfect for everyday clothes.
+{{< /alert >}}
 
-## Dry Cleaning
-For your delicate fabrics and suits that require special care, our dry cleaning service uses gentle solvents to remove stains and refresh your garments.
-
-## Bedding & Comforters
-Bulky bedding can be a hassle to wash at home. Let us handle your duvets, comforters, sheets, and blankets. We have large-capacity machines designed for these items.
-
-## Shoe Cleaning
-Give your sneakers and shoes a new lease on life with our specialized shoe cleaning service.
-
-## Pickup & Delivery
-Busy schedule? We offer convenient pickup and delivery services within our local area. Book a slot, and we'll come to you!
+{{< alert icon="star" >}}
+**Dry Cleaning**
+For delicate fabrics and suits. We use gentle solvents to remove stains and refresh your garments.
+{{< /alert >}}
 
 ---
-> **Ready to book?** [Contact us](/contact) today or call/WhatsApp us at **+254 700 000 000**.
+
+## ✨ More Care Options
+
+{{< accordion >}}
+  {{< accordionItem title="Ironing & Pressing" icon="sun" >}}
+    Look sharp with our professional ironing services. We ensure your shirts, trousers, and dresses are crisp and wrinkle-free.
+  {{< /accordionItem >}}
+  {{< accordionItem title="Bedding & Bulk Items" icon="user-group" >}}
+    We have large-capacity machines designed for duvets, comforters, sheets, and blankets (up to 6x6 size).
+  {{< /accordionItem >}}
+  {{< accordionItem title="Specialty Shoe Cleaning" icon="shopping-cart" >}}
+    Give your sneakers and shoes a new lease on life with our specialized hand-cleaning service.
+  {{< /accordionItem >}}
+{{< /accordion >}}
+
+---
+
+{{< alert icon="truck" >}}
+**Convenient Pickup & Delivery**
+Busy schedule? We offer reliable pickup and delivery within the Kahawa Wendani area. [Book a Pickup Now](https://wa.me/254788957996)
+{{< /alert >}}
