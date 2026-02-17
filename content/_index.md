@@ -5,7 +5,6 @@ layout: "hero"
 showSummary: false
 showAuthor: false
 ---
-
 {{< lead >}}
 Welcome to FreshSpin Laundry! We provide top-notch laundry services to keep you looking fresh every day.
 {{< /lead >}}

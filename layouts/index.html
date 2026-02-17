@@ -1,18 +1,60 @@
 {{ define "main" }}
-  {{ $partial := print "home/" .Site.Params.homepage.layout ".html" }}
-  {{ if templates.Exists ( printf "partials/%s" $partial ) }}
-    {{ partial $partial . }}
-  {{ else }}
-    {{ partial "home/profile.html" . }}
-  {{ end }}
-  
-  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-    {{ partial "home/custom_bottom_sections.html" . }}
-  </div>
+{{ $partial := print "home/" .Site.Params.homepage.layout ".html" }}
+{{ if templates.Exists ( printf "partials/%s" $partial ) }}
+{{ partial $partial . }}
+{{ else }}
+{{ partial "home/profile.html" . }}
+{{ end }}
 
-  <!-- Custom Developer Branding Before Footer -->
-  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-12 pb-12 border-t border-neutral-200 dark:border-neutral-800 pt-8 text-center text-sm text-neutral-500">
-    <p>Powered by <a href="https://craftededgesolutions.com" target="_blank" class="font-bold hover:text-primary-500 underline decoration-primary-500/30">Crafted Edge Solutions</a></p>
-    <p>Hand-crafted with passion by <a href="https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/" target="_blank" class="font-bold hover:text-primary-500 underline decoration-primary-500/30">Meshack</a></p>
-  </div>
+<!-- Promote Your Business Banner -->
+<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-12">
+    <div class="flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900">
+        <span class="text-primary-400 pe-3 flex items-center">
+            {{ partial "icon.html" "rocket" }}
+        </span>
+        <span class="dark:text-neutral-300">
+            <strong>Promote your business with FreshSpin!</strong>
+            Reach the residents of Kahawa Wendani by partnering with us.
+            <a href="{{ " promotions/" | relURL }}#-advertise-with-freshspin"
+                class="font-bold text-primary-600 dark:text-primary-400 hover:underline">View Ad Options →</a>
+        </span>
+    </div>
+</div>
+
+<!-- Ready for a Fresh Spin CTA + Operating Hours -->
+<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-16 mb-8">
+    <div class="prose dark:prose-invert mx-auto text-center max-w-2xl">
+        <h2>Ready for a Fresh Spin?</h2>
+        <p class="text-xl opacity-70">Let us handle the heavy lifting while you enjoy your weekend.</p>
+        <a class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700 inline-block"
+            href="https://wa.me/254788957996" target="_blank" rel="noopener noreferrer" role="button">
+            Book a Pickup on WhatsApp →
+        </a>
+    </div>
+
+    <div class="mt-10 max-w-xl mx-auto">
+        <div class="flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900">
+            <span class="text-primary-400 pe-3 flex items-center">
+                {{ partial "icon.html" "clock" }}
+            </span>
+            <span class="dark:text-neutral-300">
+                <strong>Operating Hours</strong><br>
+                Sunday – Friday: 8:00 AM – 6:00 PM &bull; Saturday: CLOSED<br>
+                📍 Kahawa Wendani, Nairobi
+            </span>
+        </div>
+    </div>
+</div>
+
+<!-- Trusted by Kahawa Wendani (Testimonial) -->
+<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-8 mb-16">
+    <div class="prose dark:prose-invert mx-auto text-center max-w-2xl">
+        <h2>Trusted by Kahawa Wendani</h2>
+        <blockquote class="text-lg italic">
+            "Yaani, FreshSpin has changed my life in Wendani! No more laundry stress. <strong>Safi sana</strong> and
+            perfectly clean clothes every time."
+        </blockquote>
+        <p class="text-sm opacity-60">— <strong>Sarah W.</strong>, Kahawa Wendani</p>
+    </div>
+</div>
 {{ end }}
