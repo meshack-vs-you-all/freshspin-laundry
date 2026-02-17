@@ -16,6 +16,7 @@ At FreshSpin Laundry, we offer a wide range of services to cater to your specifi
 {{< alert icon="check" >}}
 **Wash & Fold**
 Just drop off your laundry, and we'll wash, dry, and neatly fold it for you. Perfect for everyday clothes.
+<br>
 {{< /alert >}}
 
 {{< alert icon="star" >}}
@@ -44,4 +45,18 @@ For delicate fabrics and suits. We use gentle solvents to remove stains and refr
 {{< alert icon="truck" >}}
 **Convenient Pickup & Delivery**
 Busy schedule? We offer reliable pickup and delivery within the Kahawa Wendani area. [Book a Pickup Now](https://wa.me/254788957996)
+{{< /alert >}}
+
+---
+
+## 🤝 Our Technical Partner
+
+{{< alert icon="fire" cardColor="#e0f2fe" iconColor="#0284c7" textColor="#0c4a6e" >}}
+**Powered by Crafted Edge Solutions**
+
+This website and our digital infrastructure are powered by [**Crafted Edge Solutions**](https://craftededgesolutions.com) - your partner for modern, high-converting business websites.
+
+Need a professional online presence? Mention **FreshSpin** and get a special discount on your web project!
+
+[Visit Crafted Edge Solutions →](https://craftededgesolutions.com)
 {{< /alert >}}

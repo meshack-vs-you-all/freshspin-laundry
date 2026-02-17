@@ -27,6 +27,6 @@ Our digital platform is managed by **Crafted Edge Solutions**. By advertising wi
 Interested in growing your business with us?
 
 * **Email:** freshspinlaundry2@gmail.com
-* **Phone:** +254 788 967 996
+* **Phone:** +254 788 957 996
 
 Let's work together to build a stronger local community!
