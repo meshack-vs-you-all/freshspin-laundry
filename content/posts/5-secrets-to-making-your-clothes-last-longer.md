@@ -1,6 +1,6 @@
 ---
 title: "5 Secrets to Making Your Clothes Last Longer"
-date: 2024-02-16T17:00:00+03:00
+date: 2025-11-20T17:00:00+03:00
 draft: false
 summary: "Learn industry secrets on how to maintain your wardrobe and keep your fabrics looking new for years."
 showSummary: true
