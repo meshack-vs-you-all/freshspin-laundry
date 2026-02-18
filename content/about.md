@@ -32,4 +32,4 @@ This website is a digital experience crafted by **Crafted Edge Solutions**, a fu
 
 From modern static sites to complex web applications, we bridge the gap between technical excellence and business growth. This platform was built using **Hugo** and the **Blowfish** theme by [Meshack](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/), showcasing our commitment to speed, SEO, and aesthetics.
 
-[Visit Crafted Edge Solutions](https://craftededgesolutions.com) | [View Developer Portfolio](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)
+[Visit Crafted Edge Solutions](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/) | [View Developer Portfolio](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)

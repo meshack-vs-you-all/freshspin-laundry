@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 sharingLinks = ["whatsapp", "email"]
-copyright = "© 2026 FreshSpin Laundry | Designed by [**Crafted Edge Solutions**](https://craftededgesolutions.com) | Lead Developer [**Meshack**](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)"
+copyright = "© 2026 FreshSpin Laundry | Designed by [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/) | Lead Developer [**Meshack**](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)"
 
 [header]
   layout = "fixed"

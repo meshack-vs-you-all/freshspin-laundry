@@ -65,10 +65,10 @@ Busy schedule? We offer reliable pickup and delivery within the Kahawa Wendani a
 {{< alert icon="code-bracket" >}}
 **Crafted Edge Solutions**
 
-This website and our digital infrastructure are built by [**Crafted Edge Solutions**](https://craftededgesolutions.com). They specialize in high-performance, modern websites that help local businesses like FreshSpin stand out.
+This website and our digital infrastructure are built by [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/). They specialize in high-performance, modern websites that help local businesses like FreshSpin stand out.
 
 **Need a Professional Website?**
 Mention **FreshSpin** and receive a referral discount on your web project!
 
-[**Visit Crafted Edge Solutions →**](https://craftededgesolutions.com) | [**Partner With Us on WhatsApp →**](https://wa.me/254788957996?text=Hi%20FreshSpin%2C%20I%27m%20interested%20in%20advertising%2Fpartnering%20with%20you.%20Can%20I%20get%20more%20information%3F)
+[**Visit Crafted Edge Solutions →**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/) | [**Partner With Us on WhatsApp →**](https://wa.me/254788957996?text=Hi%20FreshSpin%2C%20I%27m%20interested%20in%20advertising%2Fpartnering%20with%20you.%20Can%20I%20get%20more%20information%3F)
 {{< /alert >}}

@@ -53,7 +53,7 @@ We reward consistency. Register your phone number and your **10th standard wash 
 
 {{< alert icon="code-bracket" >}}
 **Launch Your Own Professional Website**
-Mention **FreshSpin** and receive a referral discount on a modern, conversion-focused business website via [**Crafted Edge Solutions**](https://craftededgesolutions.com).
+Mention **FreshSpin** and receive a referral discount on a modern, conversion-focused business website via [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/).
 {{< /alert >}}
 
 ---
