@@ -1,6 +1,18 @@
 # FreshSpin Laundry Website
 
-This is the source code for the FreshSpin Laundry website, built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. The site promotes FreshSpin Laundry services and **Crafted Edge Solutions**.
+A modern, high-performance service website for a premium laundry business in Nairobi, focusing on UI/UX, responsiveness, and clear conversion paths.
+
+## 🚀 Live Site
+View the project live: [https://meshack-vs-you-all.github.io/freshspin-laundry/](https://meshack-vs-you-all.github.io/freshspin-laundry/)
+
+## ✨ Key Features
+- **Conversion-Centric Design**: Strategically placed CTAs for service inquiries and pickups.
+- **Mobile-First UX**: Fully optimized for professional clients on the go.
+- **Service Showcasing**: Detailed presentation of wash & fold, dry cleaning, and specialized care services.
+- **Lighthouse Performance**: Optimized for speed, accessibility, and SEO best practices.
+
+## 🤝 Technical Partner
+Developed and managed by **[Crafted Edge Solutions](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/)**.
 
 ## Project Structure
 

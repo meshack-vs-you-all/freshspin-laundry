@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 sharingLinks = ["whatsapp", "email"]
-copyright = "© 2026 FreshSpin Laundry - Excellence in Kenyan Fabric Care. A [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/) Project."
+copyright = "© 2026 FreshSpin Laundry. Technical Partner: [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/)."
 
 [header]
   layout = "fixed"
