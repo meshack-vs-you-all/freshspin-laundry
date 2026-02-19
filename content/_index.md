@@ -4,27 +4,20 @@ description: "FreshSpin Laundry: Professional laundry, dry cleaning, and conveni
 layout: "hero"
 ---
 
-# FreshSpin Laundry - Fabric Care You Can Trust
+# Fabric Care You Can Trust
 
-At FreshSpin Laundry, we don't just wash clothes; we care for your fabrics. We offer a premium, hassle-free laundry experience tailored for the modern Kenyan lifestyle.
+Premium, hassle-free laundry tailored for the modern Kenyan lifestyle. **We collect, clean, and deliver.**
 
-## Our Premium Services
-- **Wash & Fold:** Perfect for your daily wear and family laundry.
-- **Dry Cleaning:** Expert care for your delicate suits, dresses, and formal wear.
-- **Home & Office Pickup:** We collect and deliver your laundry at your convenience across Nairobi.
-- **Stain Removal Expert:** Specialized treatment for those tough, stubborn stains.
+## Our Services
+- **Wash & Fold:** Daily wear and family laundry.
+- **Dry Cleaning:** Expert care for delicates and formal wear.
+- **Home Pickup:** Door-to-door convenience across Nairobi.
 
-## Why Choose FreshSpin?
-- **Fast Turnaround:** Get your clothes back fresh and clean within 24-48 hours.
-- **Professional Staff:** Our team is trained in advanced fabric care techniques.
-- **Eco-Friendly Detergents:** We use high-quality, environmentally friendly cleaning agents.
-- **Convenient Locations:** Find us in Kilimani, Lavington, and Westlands.
+## Why FreshSpin?
+- **24-48h Turnaround:** Fast and reliable service.
+- **Eco-Friendly:** High-quality, safe cleaning agents.
+- **Expert Staff:** Trained in advanced fabric care.
 
-## Special Offers
-> **New Client Discount:** Get 15% OFF your first order with code **FRESH254**!
+> **15% OFF your first order** with code **FRESH254**!
 
-## Expertise You Can Trust
-- **[The Professional Guide to Long-Lasting Fabric Care](/guides/fabric-care/)** - Discover expert tips to extend the life of your most valued wardrobe.
-
----
-[View Our Pricing](/pricing/) | [Schedule a Pickup](/contact/)
+[View Pricing](/pricing/) | [Schedule Pickup](/contact/)

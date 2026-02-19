@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 sharingLinks = ["whatsapp", "email"]
-copyright = "© 2026 FreshSpin Laundry - Excellence in Kenyan Fabric Care. A [**Crafted Edge Solutions**](http://localhost:1318/) Project."
+copyright = "© 2026 FreshSpin Laundry - Excellence in Kenyan Fabric Care. A [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/) Project."
 
 [header]
   layout = "fixed"
@@ -18,7 +18,7 @@ copyright = "© 2026 FreshSpin Laundry - Excellence in Kenyan Fabric Care. A [**
 
 [homepage]
   layout = "hero"
-  homepageImage = "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&q=80&w=1200"
+  homepageImage = "https://images.unsplash.com/photo-1545173153-5dd9aba10625?auto=format&fit=crop&q=80&w=1200"
   showRecent = true
   showRecentItems = 3
   cardView = true
