@@ -1,10 +1,10 @@
-colorScheme = "slate"
+colorScheme = "emerald"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 sharingLinks = ["whatsapp", "email"]
-copyright = "© 2026 FreshSpin Laundry | Designed by [**Crafted Edge Solutions**](https://meshack-vs-you-all.github.io/crafted-edge-solutions-hg/) | Lead Developer [**Meshack**](https://meshack-vs-you-all.github.io/meshack-hugo-portfolio/)"
+copyright = "© 2026 FreshSpin Laundry - Excellence in Kenyan Fabric Care. A [**Crafted Edge Solutions**](http://localhost:1318/) Project."
 
 [header]
   layout = "fixed"
@@ -12,7 +12,6 @@ copyright = "© 2026 FreshSpin Laundry | Designed by [**Crafted Edge Solutions**
 [footer]
   showMenu = true
   showCopyright = true
-
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -23,9 +22,16 @@ copyright = "© 2026 FreshSpin Laundry | Designed by [**Crafted Edge Solutions**
   showRecent = true
   showRecentItems = 3
   cardView = true
-  cardShadow = false
-  cardBorder = false
+  cardShadow = true
+  cardBorder = true
   layoutBackgroundBlur = false
+
+[params]
+  description = "FreshSpin Laundry offers premium laundry, dry cleaning, and home pickup services in Nairobi. Experience professional fabric care with a touch of Kenyan excellence."
+  keywords = ["Laundry Services Nairobi", "Dry Cleaning Kenya", "Home Pickup Laundry Nairobi", "Professional Laundry Kenya", "FreshSpin Laundry"]
+  phone = "+254 722 000 000"
+  email = "info@freshspin.co.ke"
+  address = "Kilimani, Nairobi, Kenya"
 
 [article]
   showDate = true

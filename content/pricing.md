@@ -1,77 +1,33 @@
 ---
-title: "Pricing & Rate Card"
-description: "Professional laundry pricing for Kahawa Wendani residents and students."
-date: 2026-02-17
-draft: false
-showHero: true
-heroStyle: "big"
-featureimage: "https://images.unsplash.com/photo-1545173168-9f1967e4954e?auto=format&fit=crop&q=80&w=1200"
----
-{{< lead >}}
-Premium laundry care at localized prices. We believe in transparency and quality.
-{{< /lead >}}
-
+title: "Affordable & Premium Pricing"
+description: "FreshSpin Laundry pricing for wash, fold, dry cleaning, and home pickup services in Nairobi, Kenya."
+layout: "page"
 ---
 
-## 🧺 Main Services
+# FreshSpin Laundry - Pricing Guide
 
-{{< accordion >}}
-  {{< accordionItem title="Standard Wash (<6kg)" icon="check" >}}
-    Our standard machine wash, dry, and fold service for everyday laundry.
-    - **Price:** KES 100 / KG
-    - **Minimum:** 6KG
-  {{< /accordionItem >}}
-  {{< accordionItem title="Bulk Load (10kg+)" icon="users" >}}
-    Bulk pricing for households or those with heavy weekly laundry needs.
-    - **Price:** KES 70 / KG
-    - **Minimum:** 10KG
-  {{< /accordionItem >}}
-  {{< accordionItem title="Specialty Items" icon="star" >}}
-    Care for items that require specialized handling.
-    - **Shoes:** KES 100 / Pair
-    - **Duvet (6x6):** KES 400
-    - **Dry Cleaning:** KES 500 - 800
-  {{< /accordionItem >}}
-{{< /accordion >}}
+We believe in transparent, value-driven pricing for all our laundry and fabric care services. Our packages are designed to fit your busy lifestyle without breaking the bank.
 
----
+## Wash & Fold (Regular Daily Wear)
+- **Standard Bag (Up to 5kg):** KSh 850
+- **Medium Bag (Up to 10kg):** KSh 1,500
+- **Family Bag (Up to 20kg):** KSh 2,800
 
-## 🎓 Student Special
+## Dry Cleaning (Individual Items)
+- **Suits (2-Piece):** KSh 650
+- **Dresses (Formal):** KSh 550
+- **Coats/Jackets:** KSh 450
+- **Duvets (Large):** KSh 1,200
 
-{{< alert icon="graduation-cap" >}}
-**CES Flash Offer for Students**
-KES **60 / KG** for all students in Kahawa Wendani.
-*Must present a valid Student ID. Valid until April 1st, 2026.*
-{{< /alert >}}
+## Premium Services
+- **Ironing Only (Per Item):** KSh 50
+- **Stain Treatment (Per Item):** KSh 150
+- **Express 24-Hour Service:** +25% of total bill
+
+## Home & Office Pickup
+- **Nairobi Central/Westlands:** FREE for orders above KSh 1,500
+- **Outer Nairobi (Kilimani, Lavington, Karen):** FREE for orders above KSh 2,500
+- **Other Areas:** Standard delivery fee of KSh 300 applies.
 
 ---
-
-## 🧾 FreshSpin Rate Card
-
-{{< alert icon="list" >}}
-**Rate Card — Kahawa Wendani**
-
-| Service            | Price                  |
-| ------------------ | ---------------------- |
-| Wash & fold (<6kg) | **KES 100/kg**   |
-| Bulk load (10+kg)  | **KES 70/kg**    |
-| Student deal       | **KES 60/kg**    |
-| Shoes              | **KES 100/pair** |
-| Duvet (6×6)       | **KES 400**      |
-
-*Updated: {{< current_date >}}*
-{{< /alert >}}
-
-
-<button onclick="window.print()" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700 cursor-pointer border-none">🖨️ Print Rate Card</button>
-
----
-
-## 💡 Store Policy
-
-{{< alert icon="lightbulb" title="Good to Know" >}}
-
-- **Bags:** Please provide at least 1 standard laundry bag (extra bags available at KES 50).
-- **Logistics:** Enjoy free pickup and delivery within the Kahawa Wendani area.
-- **Care:** Please report any special fabric concerns or care instructions upon booking.
-  {{< /alert >}}
+[Schedule a Pickup](/contact/) | [Our Services](/services/)
