@@ -36,10 +36,10 @@
               {{ if $style }}style="{{ $style | safeCSS }}"{{ end }}>
             {{ if not $disableHeroImageFilter }}
               <div
-                class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
+                class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply backdrop-blur-[2px]"></div>
             {{ else }}
               <div
-                class="absolute inset-0 from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
+                class="absolute inset-0 from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply backdrop-blur-[2px]"></div>
             {{ end }}
           {{ end }}
         </div>

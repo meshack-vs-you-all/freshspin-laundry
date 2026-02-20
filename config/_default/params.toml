@@ -18,7 +18,7 @@ copyright = "© 2026 FreshSpin Laundry. Technical Partner: [**Crafted Edge Solut
 
 [homepage]
   layout = "hero"
-  homepageImage = "https://images.unsplash.com/photo-1545173153-5dd9aba10625?auto=format&fit=crop&q=80&w=1200"
+  homepageImage = "images/hero-laundry.jpg"
   showRecent = true
   showRecentItems = 3
   cardView = true
